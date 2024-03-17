@@ -10,7 +10,7 @@ A partir de  [MyFirstCapture.pcapng](https://github.com/WildCodeSchool/TSSR_Reso
 
 Les protocoles utilisés dans la trace réseau sont accessibles en regardant disponibles dans la fenêtre de liste des paquets, en 5ème colonne.
 
-![5Réponse1](attachment/MyFirstCapture_Wireshark_01.jpg)
+![Réponse1](attachment/MyFirstCapture_Wireshark_01.jpg)
 
 * Protocole ARP
 * Protocole ICMP
