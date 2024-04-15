@@ -63,7 +63,7 @@ Le serveur étant déjà en local, il est donc déjà selectioné, cliquez sur `
 
 Nous rentrons alors dans le vif du sujet, vous devez ajouter le rôle `DHCP Server`
 
-Une nouvelle fenêtre s'ouvre, assurez-vous d'avoir l'option `Include management tools (if appllicable)` cochée, puis cliquez sur `Add Features`
+Une nouvelle fenêtre s'ouvre, assurez-vous d'avoir l'option `Include management tools (if applicable)` cochée, puis cliquez sur `Add Features`
 
 La fenêtre se ferme, le rôle `DHCP Server` est bien coché, cliquez sur `Next`
 
