@@ -49,3 +49,7 @@ Sélectionnez l'option `Enabled` puis cliquez sur `Apply` puis `OK`
 L'accés au Panneau de Configuration Windows est désormais bloqué pour les Utilisateur de l'Unité Organisationnelle
 
 ![WIN_AD_GPO_12](attachment/WIN_AD_GPO_12.jpg)
+
+La nouvelle GPO apparait bien dans le Group Policy Managment pour notre Unité
+
+![WIN_AD_GPO_13](attachment/WIN_AD_GPO_13.jpg)
