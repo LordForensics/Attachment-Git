@@ -47,7 +47,7 @@ Une nouvelle fenêtre s'ouvre, assurez-vous d'avoir l'option `Include management
 
 La fenêtre se ferme, le rôle `Active Directory Domain Services` est bien coché, cliquez sur `Next`
 
-![Win_AD_Install_01](attachment/Win_AD_Install_01.jpg)
+![Win_AD_Install_01](attachment/WIN_AD_Install_01.jpg)
 
 Dans l'onglet `Features`, laissez comme c'est et cliquez sur `Next`
 
@@ -55,50 +55,50 @@ Dans l'onglet `Features`, laissez comme c'est et cliquez sur `Next`
 
 L'installation du rôle `Active Directory Domain Services` est presque terminée, cliquez sur `Next`
 
-![Win_AD_Install_02](attachment/Win_AD_Install_02.jpg)
+![Win_AD_Install_02](attachment/WIN_AD_Install_02.jpg)
 
 Cliquez sur `Install` pour finaliser
 
-![Win_AD_Install_03](attachment/Win_AD_Install_03.jpg)
+![Win_AD_Install_03](attachment/WIN_AD_Install_03.jpg)
 
 A la fin de l'installation, un message vous avertit qu'une configuration est requise, et vous avez notamment une ligne `Promote this server to a domain controller`, cliquez sur cette ligne afin de convertir votre Serveur en Contrôleur de Domaine du réseau
 
-![Win_AD_Install_04](attachment/Win_AD_Install_04.jpg)
+![Win_AD_Install_04](attachment/WIN_AD_Install_04.jpg)
 
 Une nouvelle fenêtre s'ouvre, c'est ici que nous allons ajouter un domaine, dans notre cas c'est un premier serveur d'un nouveau réseau, donc nous choisissons `Add a new forest`, puis nous remplissons le champ `Root domain name` et nous cliquons sur `Next`
 
-![Win_AD_Install_05](attachment/Win_AD_Install_05.jpg)
+![Win_AD_Install_05](attachment/WIN_AD_Install_05.jpg)
 
 Il faut alors s'assurer que l'option `Catalogue Global` est bien cochée, dans notre cas, il s'agit également d'un serveur DNS donc l'option est validée
 
 Saisissez un Mot de passe et sa confirmation, puis cliquez sur `Next`
 
-![Win_AD_Install_06](attachment/Win_AD_Install_06.jpg)
+![Win_AD_Install_06](attachment/WIN_AD_Install_06.jpg)
 
 Sur l'onglet suivant, un message vous alerte sur la délégation du serveur, mais il n'y a rien à faire à cette étape, cliquez sur `Next`
 
-![Win_AD_Install_07](attachment/Win_AD_Install_07.jpg)
+![Win_AD_Install_07](attachment/WIN_AD_Install_07.jpg)
 
 Vous changez d'onglet, le champ `The NetBios domain name` est rempli automatiquement, cliquez sur `Next`
 
-![Win_AD_Install_08](attachment/Win_AD_Install_08.jpg)
+![Win_AD_Install_08](attachment/WIN_AD_Install_08.jpg)
 
 Il en est de même pour l'onglet `Path`, cliquez sur `Next`
 
-![Win_AD_Install_09](attachment/Win_AD_Install_09.jpg)
+![Win_AD_Install_09](attachment/WIN_AD_Install_09.jpg)
 
 Sur l'onglet `Review options`, vérifiez vos paramètres et cliquez sur `Next`
 
-![Win_AD_Install_10](attachment/Win_AD_Install_10.jpg)
+![Win_AD_Install_10](attachment/WIN_AD_Install_10.jpg)
 
 Toutes les vérifications de pré-requis sont validées (bandeau en haut), la fenêtre attire tout de même votre attention sur certains points, mais surtout que le Serveur peut redémarrer lors de l'installation, cliquez sur `Install`
 
-![Win_AD_Install_11](attachment/Win_AD_Install_11.jpg)
+![Win_AD_Install_11](attachment/WIN_AD_Install_11.jpg)
 
 Une fois que le Serveur a redémarré des suites de l'nstallation, vous pourrez remarquer que la page de connexion au Serveur a changé, le `Domain name` a bien été pris en compte
 
-![Win_AD_Install_12](attachment/Win_AD_Install_12.jpg)
+![Win_AD_Install_12](attachment/WIN_AD_Install_12.jpg)
 
 L'installation est terminée. Tous nos services sont opérationnels
 
-![Win_AD_Install_13](attachment/Win_AD_Install_13.jpg)
+![Win_AD_Install_13](attachment/WIN_AD_Install_13.jpg)
